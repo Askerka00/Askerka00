@@ -39,6 +39,6 @@ I'm a **Frontend Developer** specializing in the **Vue.js ecosystem (Vue 2/3, Nu
 
 ### 📫 Connect with Me
 
-*   **Telegram**: [@BerzloyDev](https://t.me/BerzloyDev) / [@CastelionGoldy](https://t.me/CastelionGoldy)
+*   **Telegram**: [@BerzloyDev](https://t.me/BerzloyDev)
 *   **Email**: aubakirovasker60@gmail.com
 *   **GitHub**: [github.com/Askerka00](https://github.com/Askerka00)
